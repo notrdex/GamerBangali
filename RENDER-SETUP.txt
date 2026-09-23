@@ -1,0 +1,4 @@
+Render setup: npm install && npm run build
+Start: npm start
+Required variables: DISCORD_BOT_TOKEN, GUILD_ID, DASHBOARD_USERNAME, DASHBOARD_PASSWORD
+No API_PORT or NEXT_PUBLIC_API_URL is required.
